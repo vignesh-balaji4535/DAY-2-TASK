@@ -1,1 +1,16 @@
+1.Write a blog on differance between document and window object
 
+*DOCUMENT OBJECT
+
+   The Document Object is a programming interface for HTML and XML documents.
+   It allows developers to interact with the content and structure of a webpage through a tree-like structure called the Document Object Model (DOM). 
+   By manipulating the DOM, developers can dynamically update the content and appearance of a webpage without having to reload it.
+   The Document Object is part of the Window Object, which represents the current browsing context or tab in a web browser.
+   
+*WINDOW OBJECT
+
+   A window object in web development refers to a browser window or tab that displays a webpage.
+   It is created when a user opens a webpage and contains properties and methods that can be used to interact with the browser and the webpage.
+   Developers can manipulate the properties and methods of the window object using JavaScript to control the behavior and appearance of the webpage.
+   
+    
